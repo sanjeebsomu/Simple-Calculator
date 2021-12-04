@@ -1,0 +1,36 @@
+#screen{
+    border: 2px solid darkcyan;
+    width: 380px;
+    border-radius: 20px;
+    margin-top: -2px;
+}
+.container{
+    text-align: center;
+}
+.calculator{
+    background-color: #8fd0de;
+    border: 2px solid green;
+    /* width: 1.5em;
+    margin: 0 auto; */
+    display: inline-block;
+    /* inline block kariba phalare yara jetiki jaga darkar sie setiki naba and amaku border dabaku sahaja haba */
+    border-radius: 25px;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 30px;
+}
+button{
+    cursor: pointer;
+    font-size: 50px;
+    background: darkcyan;
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    border: none;
+}
+#plusBtn{
+    height: 144px;
+}
