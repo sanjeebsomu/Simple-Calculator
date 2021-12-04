@@ -17,7 +17,7 @@ for(items of buttons){
         }
         else{
             screen.value += buttonText;//assinging button text value to  screen.value
-            screenValue = screen.value;//assigning screenValue to screen.value
+            screenValue = screen.value;//assigning screenValue to screen.value without this assignment to screenValue variable this gives errors
         }
     })
 }
